@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../:\Kechko Java EE\Lesson4\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+ /../../../../:\Kechko Java EE\Lesson4\.idea/
+        Lesson4.iml
+        Person.out
+        pom.xml
+        src/
